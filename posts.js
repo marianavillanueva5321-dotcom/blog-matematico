@@ -12,5 +12,12 @@ const publicaciones = [
     archivo: "entradas/productos_notables.js",
     fecha: "2026-10-13",
     resumen: "Productos notables y su resolucion."
+},
+{
+    id: "test",
+    titulo: "Test del profe",
+    archivo: "entradas/test.js",
+    fecha: "2026-10-20",
+    resumen: "jhghkgfhkgfj"
 }
 ];
