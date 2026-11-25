@@ -43,8 +43,8 @@ const publicaciones = [
 },
 {
     id: "03pn",
-    titulo: "Sistema de Ecuaciones Lineales II",
-    archivo: "entradas/sistemaDeEcuacionesLieneales_2.js",
+    titulo: "Sistema de Ecuaciones Lineales I",
+    archivo: "entradas/sistemaDeEcuacionesLieneales_1.js",
     fecha: "2026-11-24",
     resumen: "Sistema de ecuaciones lineales y su resolución."
 }
